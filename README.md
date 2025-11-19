@@ -10,7 +10,7 @@ basket_analysis_functions.py – data cleaning functions and the main model defi
 
 basket_analysis_main.py – runs the mining process across multiple support and confidence thresholds, removes duplicate rules, and exports results
 
-basket_analysis_visual.py – generates a frequency histogram for individual items
+basket_analysis_visual.py – generates a bar chart for individual items
 
 All final rule outputs are exported as CSV files for further analysis or dashboard creation in tools like Power BI or Tableau.
 
