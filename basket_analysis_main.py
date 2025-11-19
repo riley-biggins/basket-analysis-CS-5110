@@ -60,4 +60,5 @@ combined_df2 = pd.concat(
     ignore_index=True)
 
 #exports the whole thing to the project directory.
+#more analysis can be done via excel.
 combined_df2.to_csv("good_rule_outputs.csv", index=False)
