@@ -12,7 +12,9 @@ All final rule outputs are exported as CSV files for further analysis or dashboa
 
 
 Instructions for running: 
-This repo includes all the files needed to execute this for yourself. By putting all of these files into the same project directory and running the
+This repo includes all the files needed to execute this for yourself. 
+The following packages are required: pandas, numpy, and mlxtend.
+By putting all of these files into the same project directory and running the
 main function, it will reference what it needs from the function file. The bar chart needs to be run seperately, but it should be in the same code base. 
 It will show the bar chart on the screen and also export it to the file location / project directory.
 
